@@ -333,7 +333,7 @@ a{
 
 .author-contact{
     height: 85px;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
     display:flex;
     flex-direction: column;
     justify-content: center;
@@ -341,16 +341,7 @@ a{
     line-height: 20px;
 }
 
-.author_contact{
-    height: 85px;
-    margin-bottom: 30px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    line-height: 20px;
-    text-align: center;
-}
+
 .error {
     flex-direction: unset;
     background: linear-gradient(rgb(247 157 85),rgb(149 80 28));
